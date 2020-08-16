@@ -1,5 +1,5 @@
 {
-  "name": "Telegram Torrent Leecher",
+  "name": "Gclone Bot",
   "stack": "container",
   "formation": {
     "worker": {
